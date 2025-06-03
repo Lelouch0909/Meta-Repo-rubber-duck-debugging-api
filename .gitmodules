@@ -1,0 +1,6 @@
+[submodule "rubberduck-metier-service-connector"]
+	path = rubberduck-metier-service-connector
+	url = https://github.com/Lelouch0909/rubberduck-metier-service-connector
+[submodule "rubberduck-metier-service-discussion"]
+	path = rubberduck-metier-service-discussion
+	url = git@github.com:Lelouch0909/rubberduck-metier-service-discussion.git
